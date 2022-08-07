@@ -4,7 +4,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title> Login - BRS System</title>
+        <title> Login - USER TASKS System</title>
         <meta name="description" content="Login">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no, minimal-ui">
@@ -30,7 +30,7 @@
                 <a href="javascript:void(0)" class="page-logo-link press-scale-down d-flex align-items-center">
                     <div class="row">
 						<div class="col-sm-2">
-							<img src="{{ asset('assets3/sn2.png')}}" alt="Sprintworks PVT LTD" aria-roledescription="logo"  style="width: 50px; background: white; ">
+							<img src="{{-- asset('assets3/sn2.png')--}}"   style="width: 50px; background: white; ">
 
 						</div>
 						<div class="col-sm-8">
@@ -69,7 +69,7 @@
                 <br/>
                 <div class="row">
 					<div class="col col-sm-12 text-center" style="color: black;">
-						<i><strong>© Copyright Sprintwork Private Limited</strong> </i>
+						<i><strong>©</strong> </i>
 					</div>
 				</div>
             </div>
